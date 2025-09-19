@@ -33,7 +33,7 @@ foundryup
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/erc20-token-foundry.git
+git clone https://github.com/BELALZEDAN/erc20-token-foundry.git
 cd erc20-token-foundry
 forge install
 ```
